@@ -2,6 +2,10 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
+# NAME : NIRMAL N
+
+# Reg no :212223240107
+
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
